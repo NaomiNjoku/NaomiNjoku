@@ -7,7 +7,7 @@ I'm a passionate Cybersecurity Enthusiast with deep love for Networking and VAPT
 
 - 🌱 I’m currently learning **Networking**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, JavaScript, and React**
+- 💬 Ask me about **Anything regarding Cyber!**
 - 📫 How to reach me: **nnaomielvis26@gmail.com**
 - ⚡ Fun fact: I love reading African books and eating.
 
@@ -21,9 +21,8 @@ I'm a passionate Cybersecurity Enthusiast with deep love for Networking and VAPT
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/naominjoku)
-- [Twitter](https://twitter.com/naominjoku)
-- [Personal Website](https://naominjoku.dev)
+- [LinkedIn](https://linkedin.com/in/naomi-njoku)
+- [Twitter](https://x.com/theNaomi_njoku)
 
 ## My Projects
 
