@@ -31,7 +31,7 @@ I'm a passionate Cybersecurity Enthusiast with deep love for Networking and VAPT
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Concept of Spanning Tree](https://medium.com/@naomi_njoku/the-concept-of-spanning-tree-protocol-stp-d03fd6c68013))
+- [The Concept of Spanning Tree](https://medium.com/@naomi_njoku/the-concept-of-spanning-tree-protocol-stp-d03fd6c68013)
 <!--
 **NaomiNjoku/NaomiNjoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
