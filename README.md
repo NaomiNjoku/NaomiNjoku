@@ -8,7 +8,7 @@ I'm a passionate Cybersecurity Enthusiast with deep love for Networking and VAPT
 - 🌱 I’m currently learning **Networking**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything regarding Cyber!**
-- 📫 How to reach me: **nnaomielvis26@gmail.com**
+- 📫 How to reach me: **naomielvis26@gmail.com**
 - ⚡ Fun fact: I love reading African books and eating.
 
 ## My GitHub Stats
